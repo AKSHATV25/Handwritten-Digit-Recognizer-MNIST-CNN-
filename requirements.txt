@@ -1,0 +1,6 @@
+streamlit
+streamlit-drawable-canvas
+tensorflow-cpu==2.16.2
+numpy
+pillow
+scipy
